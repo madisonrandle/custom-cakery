@@ -144,7 +144,9 @@ h4 {
 .medium-image-text img {
   width: 400px;
 }
+
 .contact {
+  color: black;
   font-size: 18px;
 }
 
